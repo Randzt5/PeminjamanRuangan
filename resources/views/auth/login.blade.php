@@ -79,7 +79,7 @@
     <div class="login-container">
         <img src="https://www.bakrie.ac.id/images/logo-ubakrie.png" alt="Logo Universitas Bakrie" class="logo">
 
-        <h2>Website Peminjaman Ruangan<br>Universitas Bakrie</h2>
+        <h2>Website Peminjaman Ruangan anjing<br>Universitas Bakrie</h2>
 {{-- Di dalam file login.blade.php --}}
 
 {{-- Tampilkan pesan error jika ada --}}
